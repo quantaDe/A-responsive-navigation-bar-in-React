@@ -66,6 +66,7 @@ nav .burger {
     width: 50%;
     transform: translateX(-500px);
     transition: 0.5s ease-in-out;
+    z-index: 9999;
   }
 
   nav .nav-links li {
